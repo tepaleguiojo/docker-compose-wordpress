@@ -33,4 +33,4 @@ volumes:
 ```
 
 ## Problems in installing Themes,Plugins
-See this [link](https://gist.github.com/dianjuar/1b2c43d38d76e68cf21971fc86eaac8e)
+See this [link](https://gist.github.com/dianjuar/1b2c43d38d76e68cf21971fc86eaac8e).
