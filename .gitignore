@@ -3,4 +3,4 @@ mysql
 .idea
 nginx/certs/wordpress-docker.test.pem
 nginx/certs/wordpress-docker.test-key.pem
-wordpress
+src/wordpress
